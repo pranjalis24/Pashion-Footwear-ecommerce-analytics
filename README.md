@@ -1,6 +1,6 @@
 # Introduction
 
-Project is about analysing live data of Manufacturing organization.Exploring the production of items and their sales to gather insights on business performance for external stakeholders as well as for internal team operations. 
+Industry analytics project completed through University of the Pacific in collaboration with Pashion Footwear, focused on customer intelligence, product-pairing analysis, revenue trends, customer lifetime value, and dashboard-based decision support; supporting stakeholders as well as internal team operations.
  
 ## Business operations: 
 * Sales Trends
